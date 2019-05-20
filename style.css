@@ -1,0 +1,12 @@
+body {
+    background: url('homepage.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+  .custom-btn {
+    background-color:rgb(111, 33, 199);
+    opacity:0.6;
+    border: 1px white solid;
+    }
